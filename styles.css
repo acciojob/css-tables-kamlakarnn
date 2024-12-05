@@ -10,7 +10,7 @@ th, td {
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 0.5rem;
-  /* text-align: left; */
+  text-align: left;
 }
 
 tbody tr:nth-child(odd) {
